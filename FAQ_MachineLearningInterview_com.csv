@@ -1,0 +1,42 @@
+FAQ Questions from MachineLearningInterview.com,FAQ Answers from MachineLearningInterview.com
+What does the job hunting experience look like ?,"Job hunting experience involves networking to get in touch with the right people in various companies, applying to lots of jobs through various channels, preparing for interviews – while interviews are uncertain it is necessary to prepare well what you CAN prepare, smart scheduling of interviews to get the best job and salary you can."
+Any insights you can offer about the DS job market ?,"There are many kinds of roles, data scientist, analyst, data engineer and so on. There are many levels of companies. In smaller companies the roles are usually combined into one while in larger companies there are more nuanced roles. Since more and more companies are just getting started on their data journey, the overall demand is expected to increase in the next few years."
+What’s the impact of Covid on hiring for DS roles?,"Hiring is going to slow down. First in small companies then eventually in enterprises in a couple of months. But it is likely to pick up in a few months. Hence, if you are looking to transition, this is a good time to ramp up skills and learn new things that might usually take some time."
+What skills and qualities do employers look for in a data scientist?,"The following are some skills employers usually look for: 
+
+(1) Should be good at coding 
+(2) Should have good problem solving and analysis skills 
+(3) Should be good with stats and building testing and deploying models. 
+
+A data scientist is a software developer ++ with stats and modeling skills to build and deploy models and make inferences from data."
+Do employers look for an advanced ML degree?,"For more senior roles: People typically look for practical experience for several years or a specialized degree with some experience. Employers typically want folks who have seen various kinds of ML problems and solved them, who can come up with the right solution for a new problem when they are looking for a more senior role.   
+
+For a beginner role: a degree usually adds some level of credibility, but if one has a good portfolio with good projects, it is usually an accepted substitute. Employers do hope to see if the candidate is comfortable with basic concepts in ML along with being able to write code."
+How does a typical day of a data scientist look like?,"Here are some tasks in the typical day of a data scientist:
+
+Make a plan for the day
+Look at data, what clean up is required, figure out what models can be built
+Talk to various stakeholders about what modeling is possible and help them narrow down to something useful for the business
+Build models, test and debug (takes a long time)
+Parameter tuning – test tons and tons of parameters (takes a long time)
+Come up with prod architecture to get deployment ready
+Write ML pipeline for production ready modeles – deploy them
+Wait for long time till we have a significant sample to see if they are working
+Analyze and see whether the models are working as expected, have any impact
+Come up with improvements/ corrections based on prod feedback and prepare for next iteration.
+Meeting with team members / daily sprints / bug triages based on production feedback – Interaction with ML Manager, Product Manager, Developers, Data engineers"
+Is preparation of algorithms and data structures needed for a data science interview ?,"Yes. In many data science interviews (ML Scientist, data scientist, ML Engineer, Data engineer) there is a coding round and an algorithms round. So preparing algorithms and data structures is necessary. Some of the Analyst interviews, such as a data analyst and a business analyst might not have an algorithms and data structures round."
+What is the mathematical background required to be a data scientist ?,"The following three are the basic building blocks in terms of data science math background: Linear Algebra, Probability and Statistics and Calculus and optimization."
+What are the various rounds in a data scientist interview ?,"Usually the data science interview has a subset of these rounds.
+
+Resume deep dive
+ML Concepts
+ML Scenario and Problem solving
+Algorithms and data structures
+Coding
+Behavioural
+
+Sometimes, some of these rounds might be combined, for instance there might not be two separate rounds for coding and algorithms. Similarly there might be a single round for ML concepts and scenario based problem solving."
+What level of proficiency is needed for a data scientist in coding?,"Needs to be reasonably proficient. Again, a data scientist is a developer ++. Usually expected to have the basic skills a developer has including understanding algorithms and data structures and being able to write clean, understable, efficient, well documented code.
+
+In many cases, the data scientist is expected to write production ready code and be able to understand the deployment process. In some cases, the coding could be for decision support."
